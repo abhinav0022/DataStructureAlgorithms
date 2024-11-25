@@ -33,6 +33,3 @@ class Solution:
         
         return countSq(n)
         '''
-            
-
-            
